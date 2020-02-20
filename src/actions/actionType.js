@@ -1,0 +1,6 @@
+export const searchRate='searchRate'
+export const Edit='Edit'
+export const Rating='Rating'
+export const Add='Add'
+export const Remove='Remove'
+export const searchInput='searchInput'
